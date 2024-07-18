@@ -1,0 +1,7 @@
+nltk
+matplotlib
+requests
+beautifulsoup4
+pandas
+sqlite3
+textblob
