@@ -14,4 +14,4 @@ This repository contains scripts for researching Allan Kardec's theories on medi
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/spiritualism-research.git
+git clone [https://github.com/your-username/spiritualism-research.git](https://github.com/DevSauce-Official/spiritualism-research.git)
